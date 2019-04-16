@@ -1,0 +1,7 @@
+hapi-db/
+target/
+bin/
+.idea/
+pom.xml.versionsBackup
+*.iml
+id_file
