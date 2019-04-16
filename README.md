@@ -1,9 +1,3 @@
-# hapi-hl7v2
+# hapi-hl7overhttp-azurefuncs
 
-This is the GitHub home for HAPI HL7v2.
-
-Project Website: https://hapifhir.github.io/hapi-hl7v2/
-
-HAPI FHIR (our sister project): http://hapifhir.io
-
-Looking to get started? [These articles](https://saravanansubramanian.com/hl7tutorials/) are a great resource.
+This is a modification of the hapi over hl7overhttp project to allow to send function code level security headers to azure functions implementing the hl7-overhttp protocol
